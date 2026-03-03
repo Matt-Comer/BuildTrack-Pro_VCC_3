@@ -19,7 +19,11 @@ Open the project in Visual Studio Code.
 Ensure Git is properly installed and configured on your system.
 
 ## Usage
-This project will document version control practices and collaboration workflows for VCC Assignment 3.
+This repository is used to demonstrate Version Control & Collaboration workflows for VCC Assignment 3, including:
+- Creating branches
+- Committing changes
+- Opening pull requests
+- Merging into main
 
 ## Contributing
 This is a school assignment project for Version Control & Collaboration.
