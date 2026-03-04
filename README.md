@@ -1,8 +1,7 @@
 # BuildTrack-Pro_VCC_3
 VCC Assignment 3 – Construction material and cost tracking system (BuildTrack Pro)# BuildTrack Pro
 [View Project Wiki](https://github.com/Matt-Comer/BuildTrack-Pro_VCC_3/wiki)
-## Project Name
-BuildTrack Pro
+ # BuildTrack Pro
 
 ## Description
 BuildTrack Pro is a construction material and cost tracking system designed to help contractors manage project expenses efficiently.
