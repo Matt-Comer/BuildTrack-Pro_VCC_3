@@ -11,7 +11,7 @@ BuildTrack Pro is a construction material and cost tracking system designed to h
 - Usage
 - Contributing
 - Credits
-
+- License
 ## Installation
 Clone the repository using GitHub Desktop.
 Open the project in Visual Studio Code.
